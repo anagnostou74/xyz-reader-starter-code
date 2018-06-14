@@ -1,5 +1,4 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
@@ -35,8 +34,7 @@
             android:layout_marginLeft="@dimen/list_toolbar_side_margin"
             android:layout_marginRight="@dimen/list_toolbar_side_margin"
             android:background="@color/colorPrimaryDark"
-            android:elevation="@dimen/app_bar_elevation"
-            app:theme="@style/FullscreenActionBarStyle">
+            android:elevation="@dimen/app_bar_elevation">
 
             <ImageView
                 android:layout_width="wrap_content"
