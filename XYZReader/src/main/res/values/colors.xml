@@ -18,8 +18,8 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="colorPrimaryDark">#04561A</color>
-    <color name="colorPrimary">#04561A</color>
+    <color name="colorPrimaryDark">#005c00</color>
+    <color name="colorPrimary">#008b00</color>
     <color name="colorAccent">#FFD4617E</color>
     <color name="ltgray">#ffe0e0e0</color>
     <color name="black_overlay">#66000000</color>
